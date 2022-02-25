@@ -29,3 +29,4 @@ typescript study
 ```
 
 (윈도우 환경에서는 파워셀을 관리자 권한으로 실행한 후 , Set-ExecutionPolicy RemoteSigned 실행한 후에 하길 바람.)
+https://poiemaweb.com/typescript-interface
